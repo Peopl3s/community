@@ -15,4 +15,5 @@
 - [Находки в опенсорсе: чат](https://t.me/opensource_findings_chat) – чат про опенсорс, python и устройство технологий.
 
 ## Youtube каналы
+
 - [PyLounge](https://www.youtube.com/@pylounge) - программирование на Python и всё об Айти.
